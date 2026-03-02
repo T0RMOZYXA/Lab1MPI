@@ -57,7 +57,8 @@ C_<N>.txt — результат умножения
 
 ### 2.3. Верификация
 Запущен Python-скрипт verify.py, который обработал все пары файлов и вычислил статистику погрешностей.
-(resultiki.jpg)
+<img width="1150" height="302" alt="image" src="https://github.com/user-attachments/assets/4b5cad94-7dfc-425e-8efd-c06d6e004868" />
+
 
 ---
 
